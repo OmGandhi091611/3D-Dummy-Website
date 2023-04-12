@@ -1,0 +1,17 @@
+.pagination {
+  position: fixed;
+  right: 50px;
+  top: 50%;
+}
+.active {
+  width: 25px;
+  height: 25px;
+  background-color: rgb(31, 30, 69);
+  margin: 10px;
+}
+.passive {
+  width: 25px;
+  height: 25px;
+  background-color: rgb(31, 30, 69, 0.7);
+  margin: 10px;
+}
