@@ -11,4 +11,4 @@ Yeti Learn
 
 
 Live Preview:
-https://3-d-dummy-website-rp6b.vercel.app/
+https://3-d-dummy-website.vercel.app/
