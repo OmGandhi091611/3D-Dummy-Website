@@ -17,6 +17,7 @@ export default function App() {
     } else if (e.deltaY > 0) {
       if (prevPage.current < 2) {
         prevPage.current += 1;
+        console.log("hello");
         setPage(prevPage.current + 1);
       }
     }
